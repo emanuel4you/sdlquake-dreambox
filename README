@@ -1,0 +1,9 @@
+Original sources from http://dl.openhandhelds.org/cgi-bin/dingoo.cgi?0,0,0,0,3,142
+
+patched for dreambox (bcmfb) by gemini team 2017
+
+The code is all licensed under the terms of the GPLv2 (gnu public license).  
+You should read the entire license, but the gist of it is that you can do 
+anything you want with the code, including sell your new version.  The catch 
+is that if you distribute new binary versions, you are required to make the 
+entire source code available for free to everyone.
